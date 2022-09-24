@@ -1,2 +1,2 @@
-# Nira
-Project nira is the discord service and web service
+# 프로젝트 Nira에 오신 것을 환영합니다!
+# 개요
