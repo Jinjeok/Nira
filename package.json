@@ -1,0 +1,26 @@
+{
+  "name": "nira",
+  "version": "1.0.0",
+  "description": "Nira 프로젝트는 두가지의 목표를 가진 프로젝트입니다.\r 1. 디스코드 봇\r 2. 웹 서비스",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jinjeok/Nira.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jinjeok/Nira/issues"
+  },
+  "homepage": "https://github.com/Jinjeok/Nira#readme",
+  "dependencies": {
+    "date-and-time": "^2.4.1",
+    "discord.js": "^14.4.0",
+    "lodash": "^4.17.21",
+    "winston": "^3.8.2",
+    "winston-daily-rotate-file": "^4.7.1"
+  }
+}
